@@ -28,7 +28,7 @@ function Navbar() {
     <nav className="navbar_container d-flex justify-content-between align-items-center px-3 px-md-4 py-2 shadow-sm">
       {/* Left Side: Logo + Site Name */}
       <div className="nav-left d-flex align-items-center gap-2">
-        <i className="fa-solid fa-cart-shopping fs-5"></i>
+        <i className="fa-solid fa-solid fa-book fs-5"></i>
         <span className="site-name fw-semibold fs-6 fs-md-5">Ente Dairy</span>
       </div>
 
